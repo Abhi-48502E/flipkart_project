@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.containerw {
+    background-color: #2874f0;
+    height: 60px;
+    width: 100%;
+}
+
+.logo {
+    height: 40px;
+    width: 80px;
+    position: absolute;
+    top: 10px;
+    margin-left: 180px;
+}
+
+.search {
+    position: relative;
+    border-radius: 2px 0 0 2px;
+    border: 0;
+    margin-left: 280px;
+    height: 40px;
+    width: 450px;
+    padding: 0px 16px;
+    margin-top: 10px;
+
+}
+
+.btnzz {
+    color: #2874f0;
+    font-weight: 500;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 2px;
+    height: 35px;
+    padding: 5px 40px;
+    border: 1px solid #dbdbdb;
+    margin-bottom: 5px;
+    margin-left: 750px;
+    margin-top: 15px;
+}
+
+.nav-text {
+    position: absolute;
+    margin-left: 930px;
+    color: #fff;
+    top: 20px;
+    cursor: pointer;
+}
+
+.nav-text2 {
+    position: absolute;
+    margin-left: 1070px;
+    color: #fff;
+    top: 20px;
+    cursor: pointer;
+}
+
+.nav-text3 {
+    position: absolute;
+    margin-left: 1170px;
+    color: #fff;
+    top: 20px;
+    cursor: pointer;
+}
+
+#cart {
+    color: #fff;
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 22px;
+    font-size: larger;
+}
+
+#search-icon {
+    position: absolute;
+    left: 700px;
+    top: 20px;
+    font-size: larger;
+    color: #2874f0;
+
+}
+#jj{
+    position: absolute;
+    top: 2px;
+}

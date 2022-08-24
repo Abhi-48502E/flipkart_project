@@ -1,0 +1,132 @@
+.row-box {
+    height: 119px;
+    display: flex;
+}
+
+.small-img {
+    margin-left: 60px;
+}
+
+#pic1 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+
+}
+
+#pic2 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+
+
+}
+
+#pic3 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+
+}
+
+#pic4 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+
+
+}
+
+#pic5 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+
+
+}
+
+#pic6 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+
+
+}
+
+#pic7 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+
+
+}
+
+#pic8 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+
+
+}
+
+#pic9 {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+
+#travel {
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+
+#applinces {
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+
+#home {
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+
+#fasion {
+    margin-left: 20px;
+    cursor: pointer;
+
+
+}
+
+#mobiles {
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+
+#glossery {
+    margin-left: 15px;
+    cursor: pointer;
+
+}

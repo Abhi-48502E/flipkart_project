@@ -1,0 +1,26 @@
+.headings{
+    color: #565656;
+    margin-left: 13px;
+}
+.sub-heading{
+    font-size: 14px;
+    color: #565656;
+    margin-left: 15px;
+}
+#list-paragraphs{
+    padding: 0 5px;
+    border-right: 1px solid #333;
+    font-size: 12px;
+    color: #565656;
+    margin-left: 16px;
+}
+.second-list-heading{
+    font-size: 16px;
+    margin-left: 13px;
+    color: #878787;
+}
+.second-parah{
+    font-size: 11px;
+    color: #878787;
+    margin-left: 13px
+}
